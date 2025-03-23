@@ -4,6 +4,12 @@ This project implements a decentralized AI-driven system to optimize token econo
 
 ## Overview
 
+
+
+https://github.com/user-attachments/assets/bba0df04-a834-49c3-94a0-a758ab730473
+
+
+
 ### Architecture
 
 - **AI Manager API Server**  
