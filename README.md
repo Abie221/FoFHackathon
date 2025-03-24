@@ -2,6 +2,11 @@
 
 This project implements a decentralized AI-driven system to optimize token economics in an energy simulation. Multiple independent agents monitor various aspects (such as grid trading, storage, demand, and peer-to-peer opportunities) and send their recommendations as JSON messages to a central AI Manager server. The AI Manager aggregates these messages and makes a coordinated decision that can be used to dynamically adjust simulation parameters to improve token savings.
 
+## Take a look at pitch presentaiton: 
+[MPoin.pptx](https://github.com/user-attachments/files/19435649/MPoin.pptx)
+
+
+
 ## Overview
 
 
