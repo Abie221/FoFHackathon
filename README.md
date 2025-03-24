@@ -4,6 +4,7 @@ This project implements a decentralized AI-driven system to optimize token econo
 
 ## Take a look at pitch presentaiton: 
 [MPoin.pptx](https://github.com/user-attachments/files/19435649/MPoin.pptx)
+[Challenge 2 – AI Agents – Chain4Energy.pdf](https://github.com/user-attachments/files/19435660/Challenge.2.AI.Agents.Chain4Energy.pdf)
 
 
 
